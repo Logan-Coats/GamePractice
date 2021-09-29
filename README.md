@@ -2,4 +2,4 @@
  
 # Asset Credits
  -[Kenney](https://www.kenney.nl/)
- -Others (Uncredited or Unavailable
+ - Others (Uncredited or Unavailable)

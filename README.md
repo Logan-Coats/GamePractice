@@ -1,4 +1,4 @@
 # GamePractice
  
 # Asset Credits
- -[Kenny](https//:www.kenny.nl)
+ -[Kenny](https://www.kenney.nl/)
